@@ -1,0 +1,7 @@
+c:\Users\apiadmin\documents\visual studio 2015\Projects\DI.cs\ExternalDI\bin\Debug\ExternalDI.pdb
+c:\Users\apiadmin\documents\visual studio 2015\Projects\DI.cs\ExternalDI\obj\Debug\ExternalDI.pdb
+c:\Users\apiadmin\documents\visual studio 2015\Projects\DI.cs\ExternalDI\bin\Debug\StructureMap.dll
+c:\Users\apiadmin\documents\visual studio 2015\Projects\DI.cs\ExternalDI\bin\Debug\ExternalDI.dll.config
+c:\Users\apiadmin\documents\visual studio 2015\Projects\DI.cs\ExternalDI\bin\Debug\ExternalDI.dll
+c:\Users\apiadmin\documents\visual studio 2015\Projects\DI.cs\ExternalDI\obj\Debug\ExternalDI.dll
+c:\Users\apiadmin\documents\visual studio 2015\Projects\DI.cs\ExternalDI\obj\Debug\ExternalDI.csprojResolveAssemblyReference.cache

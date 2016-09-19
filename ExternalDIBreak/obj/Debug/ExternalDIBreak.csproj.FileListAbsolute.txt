@@ -1,0 +1,5 @@
+c:\Users\apiadmin\documents\visual studio 2015\Projects\DI.cs\ExternalDIBreak\bin\Debug\ExternalDIBreak.dll
+c:\Users\apiadmin\documents\visual studio 2015\Projects\DI.cs\ExternalDIBreak\bin\Debug\ExternalDIBreak.pdb
+c:\Users\apiadmin\documents\visual studio 2015\Projects\DI.cs\ExternalDIBreak\obj\Debug\ExternalDIBreak.csprojResolveAssemblyReference.cache
+c:\Users\apiadmin\documents\visual studio 2015\Projects\DI.cs\ExternalDIBreak\obj\Debug\ExternalDIBreak.dll
+c:\Users\apiadmin\documents\visual studio 2015\Projects\DI.cs\ExternalDIBreak\obj\Debug\ExternalDIBreak.pdb

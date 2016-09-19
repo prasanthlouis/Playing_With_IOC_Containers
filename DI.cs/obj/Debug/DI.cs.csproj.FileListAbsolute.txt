@@ -1,0 +1,11 @@
+c:\users\apiadmin\documents\visual studio 2015\Projects\DI.cs\DI.cs\bin\Debug\DI.cs.exe.config
+c:\users\apiadmin\documents\visual studio 2015\Projects\DI.cs\DI.cs\bin\Debug\DI.cs.exe
+c:\users\apiadmin\documents\visual studio 2015\Projects\DI.cs\DI.cs\bin\Debug\DI.cs.pdb
+c:\users\apiadmin\documents\visual studio 2015\Projects\DI.cs\DI.cs\bin\Debug\StructureMap.dll
+c:\users\apiadmin\documents\visual studio 2015\Projects\DI.cs\DI.cs\obj\Debug\DI.cs.csprojResolveAssemblyReference.cache
+c:\users\apiadmin\documents\visual studio 2015\Projects\DI.cs\DI.cs\obj\Debug\DI.cs.exe
+c:\users\apiadmin\documents\visual studio 2015\Projects\DI.cs\DI.cs\obj\Debug\DI.cs.pdb
+c:\users\apiadmin\documents\visual studio 2015\Projects\DI.cs\DI.cs\bin\Debug\ExternalDI.pdb
+c:\users\apiadmin\documents\visual studio 2015\Projects\DI.cs\DI.cs\bin\Debug\ExternalDI.dll
+c:\users\apiadmin\documents\visual studio 2015\Projects\DI.cs\DI.cs\bin\Debug\ExternalDIBreak.dll
+c:\users\apiadmin\documents\visual studio 2015\Projects\DI.cs\DI.cs\bin\Debug\ExternalDIBreak.pdb
